@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishikesh</h1>
 <h3 align="center">A passionate software tester from India</h3>
 
-- 🔭 I’m currently working on [ApiTestingWithRestAssured](https://github.com/Rishikesh-pal/ApiTestingWithRestAssured)
+- 🔭 I’m currently working on [AutomationExercise](https://github.com/Rishikesh-pal/AutomationExercise)
 
 - 🌱 I’m currently learning **Selenium, Cypress and Rest Assured Llibrary**
 

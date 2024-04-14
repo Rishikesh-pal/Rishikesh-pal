@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AutomationExercise](https://github.com/Rishikesh-pal/AutomationExercise)
 
-- 🌱 I’m currently learning **Selenium, Cypress and Rest Assured Llibrary**
+- 🌱 I’m currently learning **Selenium, Cypress, Rest Assured Llibrary, Integrating jenkins and docker with my projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishikesh-pal](https://github.com/Rishikesh-pal)
 

@@ -25,5 +25,7 @@
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
   <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chai" width="40" height="40"/> </a> 
   <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="restassured" width="40" height="40"/> </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/playwright.svg" alt="playwright" width="40" height="40"/> </a>
+  <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idV7ZoyErg/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="webdriverio" width="40" height="40"/> </a>
   
    </p>

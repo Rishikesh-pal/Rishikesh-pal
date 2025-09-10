@@ -30,14 +30,11 @@
   
    </p>
 <br>
-
+<!--
 <h3 align="left">📊 GitHub Stats</h3>
-
 ![](https://github-readme-stats.vercel.app/api?username=Rishikesh-pal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rishikesh-pal&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh-pal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-
-
 <h3 align="left">🏆 GitHub Trophies</h3>
-
 ![](https://github-profile-trophy.vercel.app/?username=Rishikesh-pal&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+--!>
